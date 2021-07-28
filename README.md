@@ -1,6 +1,6 @@
 ## Hello! I'm Rafael Dal Forno dos Santos 
 
-- :round_pushpin: I live in :brazil:
+- :round_pushpin: I live in 🇧🇷
 - :mortar_board:  I have a degree in Eletronics 
 - :man_student:   Now I'm studying Systems Analysis and Development
 
@@ -16,10 +16,10 @@
 ## Connect with me:
  
  <a href="https://www.linkedin.com/in/rafaeldalforno/" target="_blank">
- <img align="center" alt="rafa-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+ <img align="center" alt="rafa-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" target="_blank" style="max-width:100%;">
  </a>
  <a href="https://www.instagram.com/itsrafadf/" target="_blank">
- <img align="center" alt="rafa-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+ <img align="center" alt="rafa-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" target="_blank" style="max-width:100%;">
  </a>
  
  <!--
