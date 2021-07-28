@@ -1,7 +1,7 @@
 ## Hello! I'm Rafael Dal Forno dos Santos 
 
-- :round_pushpin: I live in 🇧🇷
-- :mortar_board:  I have a degree in Eletronics 
+- :round_pushpin: I live in Brazil :brazil:
+- :mortar_board:  I have a degree in Eletronics in 2019
 - :man_student:   Now I'm studying Systems Analysis and Development
 
 ## I've learning more about:
