@@ -12,6 +12,13 @@
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40" style="max-width:100%;"></img>
 
+##
+
+<div>
+  <a href="https://github.com/rafaeldalforno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldalforno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldalforno&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 ## Connect with me:
  
