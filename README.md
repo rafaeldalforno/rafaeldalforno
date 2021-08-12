@@ -7,7 +7,7 @@
 
 ## My profile (Under development using HTML5, CSS3, Javascript):
 
-<a href="https://rafaeldalforno.github.io/site-my-profile/" target="_blank">rafaeldalforno.github.io/site-my-profile</a>
+<a href="https://rafaeldalforno.github.io/site-my-profile/" target="_blank">https://rafaeldalforno.github.io/site-my-profile</a>
   
 ## I'm currently learning more about:
 
