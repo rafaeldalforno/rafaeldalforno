@@ -5,7 +5,7 @@
 - :man_student:   Now I'm studying Systems Analysis and Development
 - :rocket:        Learning HTML5, CSS3 and JavaScript.
 
-## My profile:
+## My profile (Under development using HTML5, CSS3, Javascript):
 https://rafaeldalforno.github.io/site-my-profile/
 
 ## I'm currently learning more about:
