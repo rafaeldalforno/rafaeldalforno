@@ -6,8 +6,9 @@
 - :rocket:        Learning HTML5, CSS3 and JavaScript.
 
 ## My profile (Under development using HTML5, CSS3, Javascript):
-https://rafaeldalforno.github.io/site-my-profile/
 
+<a href="https://rafaeldalforno.github.io/site-my-profile/" target="_blank">rafaeldalforno.github.io/site-my-profile</a>
+  
 ## I'm currently learning more about:
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
