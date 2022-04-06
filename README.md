@@ -18,7 +18,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="40" height="40" style="max-width:100%;"></img>
 
-##
+###
 
 <div>
   <a href="https://github.com/rafaeldalforno">
