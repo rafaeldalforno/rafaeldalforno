@@ -22,17 +22,17 @@
 
 <div>
   <a href="https://github.com/rafaeldalforno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldalforno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldalforno&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldalforno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldalforno&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ## Connect with me:
  
  <a href="https://www.linkedin.com/in/rafaeldalforno/" target="_blank">
- <img align="center" alt="rafa-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+ <img align="center" alt="rafael-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
  </a>
  <a href="https://www.instagram.com/itsrafadf/" target="_blank">
- <img align="center" alt="rafa-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+ <img align="center" alt="rafael-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
  </a>
  
  <!--
