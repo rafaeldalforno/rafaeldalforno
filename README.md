@@ -42,7 +42,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,git,github,react,mysql,java" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,jquery,sass,less,gulp,grunt" /><br>
+  <img src="https://skillicons.dev/icons?i=react,jquery,mysql,java" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,sass,less,gulp,grunt" /><br>
 </div>
 
 <br>
