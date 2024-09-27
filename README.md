@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,git,github,react,mysql,java" /><br>
   <img src="https://skillicons.dev/icons?i=figma,jquery,sass,less,gulp,grunt" /><br>
 </div>
 
