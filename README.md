@@ -16,6 +16,7 @@ Atualmente, estou focado em me desenvolver como **Analista de QA** e seguir apre
   - Tecnólogo em Eletrônica Industrial – IFSC (Florianópolis)
   - Tecnólogo em Análise e Desenvolvimento de Sistemas – Senac (EAD)
   - Curso Full Stack Developer – JavaScript, ReactJS, Java, MySQL
+  - Curso Avançado de Tester - Qazando - Cypress, Playwright, Selenium WebDriver ...
 
 <br>
 
